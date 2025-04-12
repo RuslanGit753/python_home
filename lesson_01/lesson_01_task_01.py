@@ -1,2 +1,4 @@
-my_name = 'Руслан Серебряков'
-print(my_name)
+my_age = 29
+my_age += 3
+
+print (my_age)
